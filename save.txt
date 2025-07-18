@@ -1,0 +1,84 @@
+O
+3
+NONE
+X,O,O
+X,NONE,X
+NONE,NONE,NONE
+NONE
+O,X,NONE
+X,X,O
+NONE,NONE,NONE
+NONE
+X,O,NONE
+NONE,NONE,O
+NONE,NONE,NONE
+NONE
+NONE,NONE,NONE
+X,O,O
+X,O,X
+O
+NONE,NONE,NONE
+O,O,O
+X,X,NONE
+X
+O,X,X
+X,X,O
+X,NONE,X
+NONE
+NONE,NONE,NONE
+NONE,X,O
+NONE,O,O
+NONE
+NONE,NONE,NONE
+O,X,NONE
+O,X,O
+NONE
+NONE,NONE,NONE
+O,O,X
+NONE,X,NONE
+MOVES=45
+X → board 0, box 3
+O → board 3, box 5
+X → board 5, box 4
+O → board 4, box 3
+X → board 3, box 8
+O → board 8, box 4
+X → board 4, box 7
+O → board 7, box 3
+X → board 3, box 6
+O → board 6, box 8
+X → board 8, box 7
+O → board 7, box 8
+X → board 8, box 5
+O → board 5, box 0
+X → board 0, box 5
+O → board 5, box 5
+X → board 5, box 1
+O → board 1, box 0
+X → board 0, box 0
+O → board 0, box 2
+X → board 2, box 0
+O → board 0, box 1
+X → board 1, box 4
+O → board 4, box 5
+X → board 5, box 8
+O → board 8, box 3
+X → board 3, box 3
+O → board 3, box 4
+X → board 4, box 6
+O → board 6, box 7
+X → board 7, box 4
+O → board 4, box 4
+X → board 1, box 1
+O → board 1, box 5
+X → board 5, box 3
+O → board 3, box 7
+X → board 7, box 7
+O → board 7, box 6
+X → board 6, box 4
+O → board 2, box 5
+X → board 5, box 6
+O → board 6, box 5
+X → board 5, box 2
+O → board 2, box 1
+X → board 1, box 3
